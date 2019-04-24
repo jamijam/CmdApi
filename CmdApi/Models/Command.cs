@@ -11,7 +11,7 @@ namespace CmdApi.Models
     {
         [BsonId]
         [BsonRepresentation(BsonType.ObjectId)]
-        public int Id { get; set; }
+        public string Id { get; set; }
 
         [BsonElement("HowTo")]
         public string HowTo { get; set; }
