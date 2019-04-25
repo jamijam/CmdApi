@@ -21,7 +21,7 @@ namespace CmdApi.Services
 
         public List<Command> Get()
         {
-            return _commands.Find(book => true).ToList();
+            return _commands.Find(command => true).ToList();
         }
 
         public Command Get(string id)

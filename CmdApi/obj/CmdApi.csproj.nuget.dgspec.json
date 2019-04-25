@@ -10,14 +10,14 @@
         "projectUniqueName": "C:\\code\\CmdApi\\CmdApi\\CmdApi.csproj",
         "projectName": "CmdApi",
         "projectPath": "C:\\code\\CmdApi\\CmdApi\\CmdApi.csproj",
-        "packagesPath": "C:\\Users\\Supic\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Malak Experience\\.nuget\\packages\\",
         "outputPath": "C:\\code\\CmdApi\\CmdApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Supic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Malak Experience\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

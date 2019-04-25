@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "3b5078139a865999d8cf4b8ac7cbaf6c38bf182e"
+    "signature": "274d7032cc670fc12961a0b491a2d9f799ed9e21"
   },
   "compilationOptions": {
     "defines": [
@@ -29,6 +29,7 @@
           "Microsoft.EntityFrameworkCore.Tools": "1.0.0",
           "Microsoft.NETCore.App": "2.2.0",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "2.2.3",
+          "System.Json": "4.5.0",
           "MongoDB.Driver": "2.8.0"
         },
         "runtime": {
@@ -615,6 +616,17 @@
             "rid": "win",
             "assetType": "runtime"
           }
+        }
+      },
+      "System.Json/4.5.0": {
+        "runtime": {
+          "lib/netstandard2.0/System.Json.dll": {
+            "assemblyVersion": "2.0.6.0",
+            "fileVersion": "4.6.26515.6"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/System.Json.dll": {}
         }
       },
       "System.Linq.Parallel/4.3.0": {
@@ -4166,6 +4178,13 @@
       "sha512": "sha512-6WVCczFZKXwpWpzd/iJkYnsmWTSFFiU24Xx/YdHXBcu+nFI/ehTgeqdJQFbtRPzbrO3KtRNjvkhtj4t5/WwWsA==",
       "path": "system.diagnostics.tracesource/4.0.0",
       "hashPath": "system.diagnostics.tracesource.4.0.0.nupkg.sha512"
+    },
+    "System.Json/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qa/n31qUQ1qEACgCCHVU20BEvkGQtIlOANSjn9TjmRnxDl/KSYrRzTS83iOuCSr/37BfueFSXHobhZhNUksqVQ==",
+      "path": "system.json/4.5.0",
+      "hashPath": "system.json.4.5.0.nupkg.sha512"
     },
     "System.Linq.Parallel/4.3.0": {
       "type": "package",
